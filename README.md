@@ -1,9 +1,9 @@
 ### Hello, I've waited here for you 🎤
 
-- 🔭 I’m currently working as Python Engineer
-- 🌱 I’m currently learning Python, Flask, Fastapi, Docker. Airflow, MongoDB & Postgres
-- 📫 How to reach me: felipelopeseti@gmail.com
-- 😄 Pronouns: He/Him
+- 🔭 I’m currently working as Python Engineer.
+- 🌱 I’m currently learning Python, Flask, Fastapi, Docker, Airflow, MongoDB & Postgres.
+- 📫 How to reach me: felipelopeseti@gmail.com.
+- 😄 Pronouns: He/Him.
 
 <div align="center">
   <a href="https://github.com/ofelipelopes">
