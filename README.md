@@ -1,10 +1,12 @@
 ### Hello, I've waited here for you 🎤
 
-- 🔭 I’m currently working as Python Engineer.
-- 🌱 I’m currently learning Python, Flask, Fastapi, Docker, Airflow, MongoDB & Postgres.
+- 🔭 I’m currently working as Software Engineer focusing, but not limited to, python language.
 - 📫 How to reach me: felipelopeseti@gmail.com.
 - 😄 Pronouns: He/Him.
-
+- 
+<!---
+- 🌱 I’m currently learning Python, Flask, Fastapi, Docker, Airflow, MongoDB & Postgres.
+ --->
 <!--- <div align="center">
   <a href="https://github.com/ofelipelopes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ofelipelopes&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
