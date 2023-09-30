@@ -1,6 +1,6 @@
 ### Hello, I've waited here for you 🎤
 
-- 🔭 I’m currently working as Software Engineer focusing, but not limited to, python language.
+- 🔭 I’m currently working as Software Engineer focusing on, but not limited to, python language.
 - 📫 How to reach me: felipelopeseti@gmail.com.
 - 😄 Pronouns: He/Him.
   
