@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as Software Engineer focusing, but not limited to, python language.
 - 📫 How to reach me: felipelopeseti@gmail.com.
 - 😄 Pronouns: He/Him.
-- 
+  
 <!---
 - 🌱 I’m currently learning Python, Flask, Fastapi, Docker, Airflow, MongoDB & Postgres.
  --->
